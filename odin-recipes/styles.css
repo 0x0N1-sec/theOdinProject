@@ -1,0 +1,28 @@
+html {
+    background-color: gray;;
+}
+
+body, .specific {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+img {
+    border: 2px solid darkslategray;
+}
+
+h3 {
+    border-bottom: 1px solid black;
+}
+
+ul, ol {
+    text-align: left;
+}
+
+div, .specific {
+    text-align: left;
+    padding-left: 10px;
+}
